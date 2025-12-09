@@ -20,8 +20,8 @@
   "created": "2025-12-08",
   "modified": "2025-12-08",
   "source": [
-    "INEGI (Instituto Nacional de Estadística y Geografía)",
-    "CONEVAL (Consejo Nacional de Evaluación de la Política de Desarrollo Social)"
+    "INEGI (Instituto Nacional de Estadística y Geografía), 2010",
+    "CONEVAL (Consejo Nacional de Evaluación de la Política de Desarrollo Social), 2010"
   ],
   "variables": {
     "State" : "Name of each state in Mexico.",
@@ -43,3 +43,4 @@
   "ethical_statement": "Dataset includes only publicly available data and excludes sensitive or restricted information.",
   "care_applicability": "CARE principles do not apply (no Indigenous or culturally sensitive data)."
 }
+
