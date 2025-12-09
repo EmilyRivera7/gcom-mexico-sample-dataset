@@ -53,8 +53,8 @@ The goal of this sample dataset is to:
 
 All data included in the sample comes from public and openly accessible sources:
 
-- **National Institute of Statistics and Geography (INEGI):** Population data  
-- **National Council for the Evaluation of Social Development Policy (CONEVAL):** Poverty measurements  
+- **National Institute of Statistics and Geography (INEGI), 2010:** Population data  
+- **National Council for the Evaluation of Social Development Policy (CONEVAL), 2010:** Poverty measurements  
 - **Public protest/event records:** Aggregated indicators on civic climate mobilization  
 
 No restricted or sensitive data (such as PEMEX (oil company in Mexico) employment data) is included in this repository.
