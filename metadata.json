@@ -1,0 +1,45 @@
+{
+  "title": "Sample Dataset on GCoM Adoption in Mexican Municipalities",
+  "description": "A simplified open-access dataset including socioeconomic, demographic, and civic engagement variables related to the adoption of the Global Covenant of Mayors (GCoM) among Mexican municipalities.",
+  "creator": {
+    "name": "Emily Rivera Mondragon",
+    "affiliation": "University of California, Merced",
+    "email": "eriveramondragon@ucmerced.edu"
+  },
+  "keywords": [
+    "climate governance",
+    "GCoM",
+    "Mexico",
+    "municipal climate action",
+    "open data",
+    "environmental policy"
+  ],
+  "version": "1.0",
+  "license": "CC-BY-4.0",
+  "language": "en",
+  "created": "2025-12-08",
+  "modified": "2025-12-08",
+  "source": [
+    "INEGI (Instituto Nacional de Estadística y Geografía)",
+    "CONEVAL (Consejo Nacional de Evaluación de la Política de Desarrollo Social)"
+  ],
+  "variables": {
+    "State" : "Name of each state in Mexico.",
+    "City/Mun" : "Name of the municipality in Mexico.",
+    "CoM" : "1 = municipality belongs to the Global Covenant of Mayors, 0 = municipality does not belong to the Global Covenant of Mayors",
+    "pop_2010" : "Total population in 2010",
+    "pop_2010_LOG10": "Base-10 logarithm of the total population in 2010",
+    "Join_Year_GCoM": "Year in which the municipality adopted the Global Covenant of Mayors",
+    "AdultsBD2010" : "Adult population with a Bachelor's degree in 2010 (INEGI 2010)",
+    "PercAdultsBD2010" : "Percentage of adult population with a Bachelor's degree in 2010",
+    "PercPov2010": "Percentage of the population living in poverty in 2010",
+    "PubUniv" : "Number of public universities in the municipality",
+    "PubUnivSt": "Number of public universities in the state",
+    "ProtestCities": "Cities where climate protests occurred",
+    "SocAssociations": "1 = municipality had a protest, 0 = municipality did not have a protest",
+    "SocAssNum" : "Total number of social associations in the municipality",
+    "SocAssIn" : "Social association type: 0 = International, 1 = Local"
+  },
+  "ethical_statement": "Dataset includes only publicly available data and excludes sensitive or restricted information.",
+  "care_applicability": "CARE principles do not apply (no Indigenous or culturally sensitive data)."
+}
