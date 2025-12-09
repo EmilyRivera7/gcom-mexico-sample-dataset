@@ -76,7 +76,7 @@ Additional dataset metadata is provided in the `metadata.json` file, including:
 This reduces ambiguity and facilitates reuse.
 
 
-## ✔ Relevance to My Research
+## Relevance to My Research
 This dataset directly supports my dissertation research on understanding the socioeconomic, civic, and institutional factors that influence the adoption of the Global Covenant of Mayors for Climate and Energy (GCoM) among Mexican municipalities.
 Sharing this sample openly provides transparency in my research design and allows others to explore the structure and variables used in my broader analysis of local climate governance.
 
@@ -132,7 +132,7 @@ emilyrivera281@gmail.com
 
 ---
 
-## ✔ Citation
+##  Citation
 
 If you use this dataset, please cite it as:
 
