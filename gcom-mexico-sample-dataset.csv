@@ -1,4 +1,4 @@
-﻿State,City name/ Municipality,Covenant of Mayors,Population 2010 Municipio INEGI 2010,population 2010 LOG10,Join Year to GCoM ,Adult Population with a Bachelor’s Degree 2010. INEGI 2010,% of Adult Population with a Bachelor’s Degree,% of Population in Poverty 2010. Source: CONEVAL 2010,Number of Public Universities in the City/Municipality,Number of Universities in the State 2010. INEGI 2010,Cities with Climate Protests,"Social Associations and Organizations; 1 = Yes, 0 = No",Number of Social Associations and Organizations per Municipality,"Social Associations and Organizations; 0 = International, 1 = Local"
+﻿State,City/Mun,Covenant of Mayors,Population 2010 Municipio INEGI 2010,population 2010 LOG10,Join Year to GCoM ,Adult Population with a Bachelor’s Degree 2010. INEGI 2010,% of Adult Population with a Bachelor’s Degree,% of Population in Poverty 2010. Source: CONEVAL 2010,Number of Public Universities in the City/Municipality,Number of Universities in the State 2010. INEGI 2010,Cities with Climate Protests,"Social Associations and Organizations; 1 = Yes, 0 = No",Number of Social Associations and Organizations per Municipality,"Social Associations and Organizations; 0 = International, 1 = Local"
 Aguascalientes,Pabellón de Arteaga,0,41862,4.621819973,N/A,7991,0,46.95833,1,0,0,0,0,0
 Aguascalientes,Rincón de Romos,0,49156,4.691576536,N/A,9116,0,56.1362,3,0,0,0,0,0
 Aguascalientes,Aguascalientes,0,797010,5.90146377,N/A,226503,0,30.5311,36,0,3,0,0,0
@@ -365,3 +365,4 @@ Zacatecas,Río Grande,0,62693,4.797219052,N/A,9899,0,62.91376,0,0,0,0,0,0
 Zacatecas,Zacatecas,0,138176,5.140432616,N/A,46869,0,29.54196,13,0,3,0,0,0
 Zacatecas,Guadalupe,0,159991,5.204095553,N/A,48983,0,34.74917,5,0,0,0,0,0
 Zacatecas,Fresnillo,0,213139,5.328662924,N/A,32293,0,56.09269,7,0,0,0,0,0
+
