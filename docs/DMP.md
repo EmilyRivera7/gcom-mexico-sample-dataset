@@ -1,10 +1,10 @@
 # Data Management Plan (DMP)
-**Project Title:** Determinant Factors in the Adoption of Local Climate Programs in Mexico  
+**Project Title:** Sample Dataset on GCoM Adoption in Mexican Municipalities 
 **Researcher:** Emily Rivera Mondragon 
 **Institution:** University of California, Merced  
 **Project Type:** Open Science – Sample Dataset Publication  
 **Date:** 2025
-
+**License:** CC BY 4.0  
 
 
 ## 1. Overview of the Data
@@ -125,3 +125,4 @@ Risks are minimal due to dataset simplicity.
 - **Reusable:** Clear licensing, documentation, and provenance.
 
 This DMP ensures sustainable, ethical, and transparent handling of the dataset.
+
